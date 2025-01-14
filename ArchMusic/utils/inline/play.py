@@ -169,8 +169,8 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
     buttons = [
         [
             InlineKeyboardButton(
-                text=f"🎧ƓЄƇЄ MƲƧƖ̇Ƈ", 
-                url=f"https://t.me/sohbetikidebir"
+                text=f"sᴏʜʙᴇᴛ ɢʀᴜʙᴜ", 
+                url=f"https://t.me/PembeninKurku"
             )
         ],
         
