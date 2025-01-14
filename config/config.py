@@ -69,7 +69,7 @@ UPSTREAM_REPO = getenv(
 
     "UPSTREAM_REPO",
 
-    "https://github.com/silahanim21/rep1",
+    "",
 
 )
 
@@ -218,13 +218,13 @@ autoclean = []
 
 # Images
 
-START_IMG_URL = getenv("START_IMG_URL", "https://envs.sh/4B_.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "")
 
 PING_IMG_URL = getenv(
 
     "PING_IMG_URL",
 
-    "https://envs.sh/4B_.jpg",
+    "",
 
 )
 
