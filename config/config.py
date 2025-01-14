@@ -83,16 +83,16 @@ GIT_TOKEN = getenv("GIT_TOKEN", "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")
 
 SUPPORT_CHANNEL = getenv(
 
-    "SUPPORT_CHANNEL", "https://t.me/the_team_kumsal")
+    "SUPPORT_CHANNEL", "https://t.me/m00dgram")
  # Example:- https://t.me/birtutammsevgi
 
 SUPPORT_GROUP = getenv(
 
-    "SUPPORT_GROUP", "https://t.me/uyumsuzlarsohbettr01")  # Example:- https://t.me/whiskeyclubb
+    "SUPPORT_GROUP", "https://t.me/PembeninKurku")  # Example:- https://t.me/whiskeyclubb
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "false")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 
 # Time after which you're assistant account will leave chats automatically.
 
